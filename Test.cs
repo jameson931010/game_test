@@ -7,12 +7,13 @@ public class test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        123456;
+        "123jjjjjjjjjjjjj456";
     }
 
     // Update is called once per frame
     void Update()
     {
-        456456;
+        "456jjjjjjjjjjjjjjjjjjjj456";
+    //123145464658798
     }
 }
